@@ -1,0 +1,5 @@
+1. Why ADAS?
+    . Major causes of road accidents were found as:
+        - Low attention of driver on road during driving
+        - Not able to interpret the danger situation on time
+        - Not able to take corrective measures in time

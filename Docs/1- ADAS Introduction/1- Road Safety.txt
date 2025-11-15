@@ -1,0 +1,14 @@
+1. Road Accidents Phases:
+    . Phase 1: Normal drive
+    - Critical situation
+    . Phase 2: Danger
+    - Point of no accident avoidance
+    . Phase 3: Collision unavoidable
+    - First impact
+    . Phase 4: During collision
+    - End of collision
+    . Phase 5: After collision
+
+2. Active Safety and Passive Safety Systems:
+    . Active safety or advanced driver assistance help the driver avoid accidents.
+    . Passive safety will not help to avoid the accident, but to reduce its impact.

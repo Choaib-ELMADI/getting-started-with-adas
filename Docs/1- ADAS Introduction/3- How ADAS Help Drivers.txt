@@ -1,0 +1,14 @@
+1. How ADAS Help Drivers to Increase Road Safety?
+    . By providing visual information:
+        - Road speed limit
+        - Road lanes
+        - Information about vehicles in front
+
+    . By providing warnings in case of daner situations:
+        - LED flash light in side mirrors
+        - LED indicator in front display
+        - Audio tones
+
+    . By interfering the vehicle motion:
+        - Sudden brake
+        - Maneuvering the vehicle
