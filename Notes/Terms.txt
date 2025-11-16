@@ -1,0 +1,7 @@
+. Ego vehicle: a vehicle that contains sensors and has ADAS functions.
+. Ego coordinate system: a common coordinate system provided by the ego vehicle in order to use data from multiple sensors.
+. Target vehicle: every vehicle detected by ADAS sensors.
+. Target coordinate system: a coordinate system that is defined on a target vehicle.
+. FoV: stands for Field of View, and it is the area that a sensor can capture.
+. Sensor coordinate system: a coordinate system that is defined on a sensor on the ego vehicle.
+. Blind spot: areas that the driver cannot see even with side mirrors.
