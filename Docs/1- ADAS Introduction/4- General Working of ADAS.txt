@@ -1,0 +1,9 @@
+1. General Working of ADAS:
+    . ADAS (Advanced Driver Assistance Systems) are automation systems having different levels of autonomy.
+    . In general, every ADAS system uses sensors to perceive the environment of its need.
+    . Then, it does some processing to check whether the situation of road is normal or can lead to accident.
+    . If it finds some danger situation, then either alert the driver or intervene to take corrective actions directly.
+    . All these systems can be generally described using the following diagram:
+
+        Environment      --> Sensors -->        Perception        --> Processing and Decision Making --> Actuators
+    (in/outside vehicle)                 (information extraction)

@@ -1,0 +1,13 @@
+1. Role of ADAS towards Autonomous Driving:
+    . Vehicles which can have capability of driving themselves without any driver are known as self driving vehicles.
+    . Such driving is known as autonomous driving.
+
+2. SAE Levels for Autonomous Driving:
+    . SAE stands for Society of Automotive Engineers.
+    . There are 6 levels (0 - 5) of automation for autonomous vehicles:
+        - Level 0: No automation
+        - Level 1: Driver assistance
+        - Level 2: Partial automation
+        - Level 3: Conditional automation
+        - Level 4: High automation
+        - Level 5: Full automation
