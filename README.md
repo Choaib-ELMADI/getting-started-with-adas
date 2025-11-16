@@ -106,20 +106,10 @@ Modern ADAS relies on a combination of sensors:
 - Use of robots for collision scenarios
 - Visual animations and examples for understanding test tracks
 
-### 8. Wrap‑Up and Downloads
+### 8. Resources and Projects
 
-Includes optional materials:
+This repo includes additional learning resources stored in the `Resources` folder, such as books, technical papers, and reference materials on ADAS and autonomous driving. These materials can help you deepen your understanding beyond the course content.
 
-- Useful websites
-- Books
-- Technical papers on ADAS and autonomous driving
-- (Optional) Python programming activities:
-
-  - Computer vision
-  - Machine learning
-  - Deep learning
-  - 7 guided exercises with problem statements and reference links
-
-These activities are not part of the course videos but can help you practice ADAS‑related algorithms.
+Optional Python programming activities and practical exercises are provided in the `Projects` folder. They cover computer vision, machine learning, and deep learning tasks related to ADAS, with 7 guided exercises including problem statements and reference links for self-practice.
 
 If you find this repo useful, feel free to share it. Contributions and suggestions are always welcome!
