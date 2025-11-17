@@ -1,0 +1,10 @@
+1. Introduction to RADAR:
+    . RADAR stands for RAdio Detection And Ranging.
+    . Automotive RADARs, aka mm wave RADAR sensors, use electromagnetic waves with length in the mm order.
+    . They use radio waves to measure distances, angles, and objects velocities.
+    . They provide a list of points (detections) which are used to detect and track objects around the vehicle.
+
+2. Why RADARs are so important?
+    . They can measure relative speeds of target vehicles on the road (Doppler Effect).
+    . They can measure distance and angle of target objects.
+    . Good performance in bad weather and different light conditions.
