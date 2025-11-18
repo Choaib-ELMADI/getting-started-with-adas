@@ -1,0 +1,22 @@
+1. Need of Accurate Vehicle Localisation in ADAS:
+    . Many ADAS applications require accurate vehicle position for their functions.
+    . Localisation is also important during the test phase of ADAS systems.
+
+2. GNSS:
+    . GNSS stands for Global Navigation Satellite System.
+    . It is a group of synchronized satellites working in concert, used for position navigation and time (PNT) solutions globally.
+    . Currently major satellite players in GNSS are:
+        - GPS     -> USA
+        - BeiDou  -> China
+        - Galileo -> Europe
+        - GLONASS -> Russia
+        - QZSS    -> Japan
+
+3. IMU:
+    . IMU stands for Inertial Measurement Unit.
+    . IMU devices usually consist of three measures: accelerometer, gyroscope and magnetometer.
+    . They are often implemented into inertial navigation systems that process the raw IMU data to calculate more useful measures.
+    . In ADAS and automotive, IMUs are useful for:
+        - Increasing the accuracy of GNSS / GPS systems
+        - Measuring vehicle motion like: position, velocity, and acceleration
+        - Sensor calibration
