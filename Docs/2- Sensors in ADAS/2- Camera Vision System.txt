@@ -1,0 +1,17 @@
+1. Introduction to Cameras:
+    . A camera works on the principle of passive light sensors to produce a digital image of a covered region.
+    . Cameras are capable of detecting both moving and static objects within their surrounding environment.
+    . Cameras can see colors, textures, and can identify road signs, traffic lights, lane markings...
+    . High processing power is required to analyze camera images data.
+
+2. Types of Cameras for ADAS:
+    . Monocular camera: contains only one vision capturing array and processing module.
+    . Stereo camera: contains two or more lenses with a separate image sensor for each lens.
+
+3. Applications of Cameras in ADAS:
+    . Traffic sign recognition system
+    . Speed limit recognition system
+    . Blind spot detection
+    . Lane departure warning and prevention system
+    . Lane keep assistance
+    . ...
