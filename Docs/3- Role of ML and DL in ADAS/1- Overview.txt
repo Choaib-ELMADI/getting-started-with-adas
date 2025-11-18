@@ -1,0 +1,10 @@
+1. ML and DL Overview:
+    . Machine learning and deep learning have changed algorithm development from classic rule-based methods.
+    . Modern AI algorithms are built by training models and enabling real-time self-learning.
+    . Research in AI for ADAS and autonomous driving is rapidly advancing.
+    . AI algorithms developed for vehicles benefit both ADAS and full autonomous driving.
+
+2. Use of AI with ADAS Sensors:
+    . The perception process of sensors like RADAR, LIDAR, and cameras is using more AI algorithms for environment perception.
+    . Sensor data fusion is also using AI algorithms.
+    . AI algorithms are getting their place in decision making also.
