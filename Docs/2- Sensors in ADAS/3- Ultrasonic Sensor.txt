@@ -1,0 +1,3 @@
+1. Introduction to Ultrasonic Sensors:
+    . Ultrasonic sensors use sound waves to measure the distance to an object.
+    . They are used in short range applications like parking assist.
