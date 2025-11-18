@@ -1,0 +1,7 @@
+1. Introduction to LIDAR:
+    . LIDAR stands for LIght Detection And Ranging.
+    . LIDAR is a remote sensing technology that is used for measuring distances.
+    . It uses active sensors which emit their own energy as source for illumination.
+    . It works on the principle of time of flight (ToF).
+    . They can produce a high-resolution densely spaced network of elevation points called "point clouds".
+    . These point clouds are used to find objects in the surrounding environment of the vehicle.
