@@ -1,0 +1,19 @@
+1. Rear Cross Traffic Alert (RCTA):
+    . Assists driver when reversing out of parking spaces.
+    . Detects vehicles, pedestrians, or cyclists approaching from the rear sides (blind spots hidden by parked cars).
+
+2. Key Features:
+    . Uses rear-corner mounted short\mid-range radar sensors (SRR, MRR).
+    . Detection range: typically up to 20-50 m on rear corners.
+    . Some systems can automatically apply brakes to avoid collision.
+    . Activates automatically when reverse gear is engaged (if function is ON).
+
+3. Driver Warnings:
+    . Visual: Dashboard icon, side mirror indicators, rear-view mirror warning.
+    . Audio: Chiming sound from the approaching side.
+
+4. Limitations & Challenges:
+    . Incomplete coverage in inclined or angled parking.
+    . Sensor view can be blocked by obstacles (plants, walls, ...).
+    . Speed detection limits, many systems only detect objects moving 3-30 km/h.
+    . Very fast or very slow objects may not trigger alert.
