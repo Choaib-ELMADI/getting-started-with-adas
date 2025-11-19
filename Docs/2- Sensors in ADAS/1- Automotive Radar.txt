@@ -4,7 +4,7 @@
     . They use radio waves to measure distances, angles, and objects velocities.
     . They provide a list of points (detections) which are used to detect and track objects around the vehicle.
 
-2. Why RADARs are so important?
+2. Why RADARs are so Important?
     . They can measure relative speeds of target vehicles on the road (Doppler Effect).
     . They can measure distance and angle of target objects.
     . Good performance in bad weather and different light conditions.

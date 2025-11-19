@@ -1,0 +1,20 @@
+1. Evolution of Cruise Control Systems:
+    . Cruise Control (CC): Maintains set speed without accelerator pedal.
+    . Adaptive Cruise Control (ACC): Adds safe distance maintenance to the vehicle ahead.
+    . ACC with Stop & Go: Works from high speed down to complete stop and resume.
+
+2. Adaptive Cruise Control (ACC):
+    . Maintains driver-set speed when road is clear.
+    . Automatically adjusts speed to keep safe distance from the vehicle in front.
+    . Reduces speed when front vehicle slows down.
+    . Accelerates back to set speed when path clears.
+
+3. ACC with Stop & Go:
+    . Operates in stop-and-go traffic (down to 0 km/h).
+    . Can automatically resume motion within ~3 seconds after stop.
+    . If stopped longer than ~3 seconds, driver must confirm resumption (button or light throttle).
+
+4. Primary Sensor for ACC:
+    . Long-Range Radar (LRR):
+        - Range: typically 200-250 m
+        - Horizontal field of view: ±4°

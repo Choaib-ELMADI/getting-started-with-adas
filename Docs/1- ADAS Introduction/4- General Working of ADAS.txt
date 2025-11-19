@@ -5,5 +5,5 @@
     . If it finds some danger situation, then either alert the driver or intervene to take corrective actions directly.
     . All these systems can be generally described using the following diagram:
 
-        Environment      --> Sensors -->        Perception        --> Processing and Decision Making --> Actuators
+        Environment      --> Sensors -->        Perception        --> Processing and Decision Making --> Actuation
     (in/outside vehicle)                 (information extraction)
