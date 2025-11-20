@@ -1,0 +1,12 @@
+1. Front Cross Traffic Alert (FCTA):
+    . Detects vehicles, cyclists, or pedestrians approaching from the left / right when ego vehicle is moving slowly.
+    . Prevents collisions at junctions where forward visibility is limited.
+
+2. Activation Conditions:
+    . Ego vehicle speed < ~10 km/h (6 mph).
+    . Transmission in Drive (AT: D position, MT: any gear except N or R).
+    . Approaching vehicle detected from front sides at ≥ ~5 km/h (3 mph).
+
+3. Driver Assistance Actions:
+    . Audio and visual warnings (dashboard icon, HUD arrows, side mirror indicators).
+    . Automatic emergency braking (AEB) if collision risk is imminent.
