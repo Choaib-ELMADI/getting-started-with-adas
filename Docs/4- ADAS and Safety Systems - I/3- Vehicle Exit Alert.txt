@@ -1,0 +1,14 @@
+1. Vehicle Exit Alert System:
+    . Prevents dooring accidents.
+    . Warns occupants before opening doors if vehicles, cyclists, or pedestrians are approaching from behind.
+    . Protects passengers when exiting the parked / stopped vehicle.
+
+2. Key Triggers & Operation:
+    . Activates when vehicle is stopped (or ignition off) and a door is about to be opened.
+    . Remains active for ~3 minutes after ignition is turned off.
+
+3. Warning Methods:
+    . Visual alerts:
+        - Red LED contour lighting inside the door / door handle
+        - High-intensity blinking red LEDs in critical situations
+        - Side mirror or dashboard indicators
