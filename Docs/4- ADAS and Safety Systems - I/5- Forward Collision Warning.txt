@@ -1,0 +1,16 @@
+1. Forward Collision Warning (FCW):
+    . Predicts potential front-end collisions by monitoring distance, relative speed, and ego vehicle speed.
+    . Alerts driver early to brake or take evasive action, helping avoid or mitigate rear-end crashes.
+
+2. Typical Scenarios Where FCW is Critical:
+    . Sudden braking of vehicle ahead.
+    . Tailgating / insufficient following distance.
+    . Lead vehicle slows unexpectedly without indicators.
+
+3. Driver Alerts & Interventions:
+    . Visual: Warning icons / symbols on dashboard or HUD.
+    . Audio: Beeps or warning tones.
+    . Tactile:
+        - Seatbelt tightening
+        - Pulsed braking
+        - Headrest adjustment
