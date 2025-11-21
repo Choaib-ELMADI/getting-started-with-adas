@@ -1,0 +1,12 @@
+1. Blind Spot Detection (BSD):
+    . Alerts the driver to vehicles or objects in the blind spots on both sides.
+    . Prevents dangerous lane changes by detecting fast-approaching or already-present traffic in adjacent lanes.
+
+2. Types of BSD Systems:
+    . BSW (Blind Spot Warning): Only alerts the driver (visual + audio).
+    . BSW with AES: Can actively steer back to prevent lane change if driver ignores warnings.
+
+3. Driver Alerts:
+    . Visual: Illuminated icon in the side mirror, A-pillar, or dashboard.
+    . Audio: Beeps or chimes (especially when turn signal is on).
+    . Tactile: Steering wheel vibration (some manufacturers).
