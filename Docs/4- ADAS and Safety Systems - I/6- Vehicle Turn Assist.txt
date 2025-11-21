@@ -1,0 +1,16 @@
+1. Vehicle Turn Assist:
+    . Prevents collisions during low-speed turns at intersections.
+    . Detects approaching vehicles, cyclists, or pedestrians that the driver may not see when turning left or right.
+
+2. Function Principle:
+    . Monitors parallel traffic coming from the right (same direction).
+    . Monitors oncoming traffic from the front (opposite direction).
+
+3. Activation Trigger:
+    . Automatically activates when the turn indicator (left or right) is switched on.
+    . Works primarily at low speeds (typically < 10-15 km/h).
+
+4. Driver Assistance Actions:
+    . Visual warning (dashboard icon, HUD highlight).
+    . Audio beep or warning tone.
+    . Automatic emergency braking if collision is imminent and driver continues turning.
