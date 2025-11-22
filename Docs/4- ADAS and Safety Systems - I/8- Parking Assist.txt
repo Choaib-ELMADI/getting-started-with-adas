@@ -1,0 +1,19 @@
+1. Parking Assist:
+    . Helps drivers park accurately and safely in tight spaces.
+    . Reduces stress, prevents scratches, and minimizes low-speed parking accidents.
+
+2. Types of Parking Assist Systems:
+    . Semi-Autonomous (Active Park Assist):
+        - Driver controls accelerator and brake
+        - System automatically steers the vehicle into the spot
+        - Driver can override or stop at any time
+
+    . Fully Autonomous (Remote Park Assist):
+        - System controls steering, acceleration, and braking
+        - Can park the vehicle completely by itself
+
+3. How It Works?
+    . Driver activates the system (button or menu) and drives slowly past potential spaces.
+    . System measures gaps and indicates when a suitable spot is found.
+    . Driver stops, selects the space, and follows on-screen instructions.
+    . System takes over steering.
