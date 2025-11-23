@@ -1,0 +1,33 @@
+1. Intelligent Headlight Control:
+    . Automatically adjusts headlight mode and direction for optimal road illumination.
+    . Prevents blinding oncoming traffic and vehicles ahead while ensuring maximum visibility for the driver.
+    . Makes night driving safer, less tiring, and more comfortable.
+
+2. Types of Intelligent Headlight Functions:
+    . Automatic High / Low Beam Switching:
+        - Switches between low and high beam based on detected traffic
+
+    . Adaptive Cornering Lights:
+        - Steers or swivels the light beam into curves according to steering angle and speed
+
+    . Matrix / Pixel LED Headlights:
+        - Selectively dims or turns off individual LED segments to create shadows around other vehicles
+        - Keeping high beam on everywhere else
+
+    . Glare-Free High Beam:
+        - Maintains high-beam illumination but eliminates glare for oncoming or preceding vehicles
+
+3. How It Works?
+    . Front-facing multipurpose camera continuously monitors ambient light and detects:
+        - Oncoming vehicles
+        - Vehicles driving ahead
+        - Street lighting conditions
+
+    . Camera data is processed by the control unit in real time.
+
+    . System instantly adjusts:
+        - High/low beam switching
+        - Beam direction (left/right swiveling)
+        - Individual LED segments (in Matrix/Pixel systems)
+
+    . Works fully automatically - no driver input needed after initial activation.
