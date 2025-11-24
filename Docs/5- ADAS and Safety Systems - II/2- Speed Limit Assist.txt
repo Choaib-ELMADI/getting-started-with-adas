@@ -1,0 +1,19 @@
+1. Speed Limit Assist:
+    . Focused exclusively on detecting and displaying current speed limits.
+    . Helps driver maintain legal speed, avoid fines, and reduce accident risk.
+    . Provides real-time speed limit information even when signs are partially obscured or missed by the driver.
+
+2. Types of Speed Limit Assist:
+    . Information-only:
+        - Simply displays current speed limit on instrument cluster / HUD
+
+    . Active Speed Limiter:
+        - Allows driver to set cruise control or speed limiter to the recognized speed limit automatically
+        - Some versions gently resist acceleration above the limit (haptic feedback via accelerator pedal)
+
+3. How It Works?
+    . Front-facing windshield camera continuously scans for speed limit signs.
+    . Image processing and deep learning algorithms detect and recognize the numerical value.
+    . Recognized speed limit is shown instantly on the dashboard / head-up display.
+    . System also recognizes end-of-speed-limit and zone signs (city entry/exit, ...).
+    . In advanced versions, data is combined with GPS database for higher reliability.
