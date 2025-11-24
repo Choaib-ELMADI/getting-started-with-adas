@@ -1,0 +1,15 @@
+1. Occupant Protection System:
+    . Uses sensor data to detect imminent collision or critical loss-of-control situations.
+    . Prepares passive safety systems in the fraction of a second before impact to maximize occupant protection.
+    . Reduces injury severity by putting restraints and vehicle in the safest possible state.
+
+2. Types of Protective Actions:
+    . Reversible measures:
+        - Automatically tightens front seat belts (reversible pretensioners)
+        - Closes side windows and sunroof (if open)
+        - Adjusts front seats/headrests to optimal position (in advanced systems)
+
+    . Irreversible measures:
+        - Triggers pyrotechnic seat-belt pretensioners
+        - Deploys airbags according to crash direction and severity
+        - Activates rollover protection (pop-up roll bars, curtain airbags)
