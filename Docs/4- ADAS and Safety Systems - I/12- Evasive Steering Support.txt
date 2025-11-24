@@ -1,0 +1,19 @@
+1. Evasive Steering Support / Assist:
+    . Helps the driver perform a quick, precise evasive maneuver when braking alone is not enough to avoid a collision.
+    . Provides additional steering torque to guide the vehicle safely around the obstacle.
+    . Significantly increases the chance of avoiding accidents in critical sudden-obstacle situations.
+
+2. Types of Intervention:
+    . Active Steering Support:
+        - Adds steering power/torque in the direction the driver is already turning
+        - Helps complete the swerve faster and more accurately
+
+    . Path Guidance (advanced versions):
+        - Calculates and follows an optimal collision-avoidance trajectory
+
+3. How It Works?
+    . Front camera and radar continuously monitor the road ahead for obstacles.
+    . System detects an imminent collision where emergency braking alone cannot prevent impact.
+    . When the driver initiates an evasive steering maneuver, the system instantly recognizes the intent.
+    . Electric power steering applies additional torque to assist and stabilize the swerve.
+    . Works only with driver input, it does not steer autonomously.
