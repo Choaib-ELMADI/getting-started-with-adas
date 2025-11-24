@@ -1,0 +1,16 @@
+1. Pedestrian Protection System:
+    . Passive safety system designed to reduce pedestrian injury severity in case of frontal collision.
+    . Detects impact with a pedestrian and activates external protective measures within milliseconds.
+    . Focuses on minimizing head and leg trauma during vehicle-pedestrian contact.
+
+2. Types of Protective Actions:
+    . Active Hood (Pop-up Hood):
+        - Lifts the rear edge of the engine hood ~10 cm using pyrotechnic actuators
+        - Creates a soft deformation zone to cushion pedestrian head impact
+
+    . External Pedestrian Airbag:
+        - Deploys from base of windshield to cover lower A-pillars and wiper area
+        - Reduces risk of head injury on hard windshield frame
+
+    . Bumper Energy Absorbers / Lower Leg Protection:
+        - Softens impact to pedestrian legs/shins via deformable bumper structures
