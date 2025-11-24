@@ -1,0 +1,10 @@
+1. Traffic Sign Recognition System:
+    . Uses a forward-facing camera to detect and read traffic signs in real time.
+    . Helps the driver stay aware of speed limits, and other important regulations.
+    . Reduces risk of unintentional violations and improves overall road safety.
+
+2. How It Works?
+    . Front windshield camera continuously captures images of the road ahead.
+    . On-board image processing with deep-learning CNN (Convolutional Neural Networks) detects and classifies signs.
+    . Recognized signs are shown on the instrument cluster and head-up display.
+    . In many vehicles, the current speed limit is also sent to the cruise control for automatic adaptation.
