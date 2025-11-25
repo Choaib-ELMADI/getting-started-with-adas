@@ -1,0 +1,10 @@
+1. Emergency Brake Assist:
+    . An early-generation ADAS that enhances driver braking during emergency situations.
+    . Helps reduce stopping distance when the driver brakes, but not hard enough or not fast enough.
+    . Designed to prevent or mitigate front-end collisions, in sudden-stop or vulnerable-road-user scenarios.
+
+2. Main Scenarios Where It Activates:
+    . Sudden braking of the vehicle ahead.
+    . Pedestrian suddenly entering the road.
+    . Vehicle cutting in at close distance.
+    . ...
