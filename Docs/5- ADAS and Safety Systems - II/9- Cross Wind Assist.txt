@@ -1,0 +1,11 @@
+1. Crosswind Stabilization Assist:
+    . An ADAS feature that helps maintain lane position during strong side winds.
+    . Automatically counteracts sudden lateral forces caused by gusts, preventing unintentional lane drift.
+    . Particularly useful for high-sided vehicles (vans, SUVs, trucks) and on exposed roads.
+
+2. Typical Situations where It Activates:
+    . Exiting tunnels.
+    . Driving on open bridges.
+    . Passing or being passed by large trucks / buses.
+    . Mountain passes or coastal roads with sudden wind changes.
+    . High-speed driving in stormy conditions.
