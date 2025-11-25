@@ -1,0 +1,18 @@
+1. 360° Surround View System:
+    . Provides a real-time top-down or 3D view of the vehicle and its immediate surroundings.
+    . Completely eliminates blind spots during parking, low-speed maneuvering, and tight-space navigation.
+    . Greatly reduces risk of minor collisions with objects, curbs, pedestrians, or other vehicles.
+
+2. Key Features:
+    . Composite top-down (bird's-eye) view stitched from multiple cameras.
+    . Individual camera views (front, rear, left, right).
+    . 3D surround view (in premium implementations).
+    . Dynamic guideline overlays showing predicted vehicle path based on steering angle.
+    . Trailer-hitch view, cross-traffic view, under-vehicle view (some latest systems).
+
+3. How It Works?
+    . 4-6 ultra-wide-angle (fisheye) cameras mounted around the vehicle.
+    . Images are captured simultaneously and corrected for fisheye distortion.
+    . Geometric alignment + photometric correction algorithms stitch the images into a seamless composite view.
+    . Synthesis algorithm generates the virtual bird's-eye or 3D perspective.
+    . Displayed on central infotainment screen or digital cluster.
