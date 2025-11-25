@@ -1,0 +1,23 @@
+1. Anti-lock Braking System:
+    . Prevents wheel lock-up during emergency braking.
+    . Maintains steering control and reduces stopping distance on most surfaces.
+    . One of the most important and proven life-saving technologies in automotive history.
+
+2. Problem without ABS:
+    . Hard braking -> wheels lock -> tires skid.
+    . Vehicle slides uncontrollably.
+    . Driver loses ability to steer around obstacles.
+    . Longer stopping distance on dry roads due to skidding.
+
+3. How ABS Works?
+    . Wheel speed sensors monitor rotation of each wheel.
+    . If a wheel is about to lock, the ABS controller rapidly modulates brake pressure.
+    . Releases and re-applies brake pressure on individual wheels automatically.
+    . Keeps tires at the optimum slip ratio for maximum grip.
+    . Driver feels pulsation in the brake pedal - this is normal and means ABS is active.
+
+4. Core Components of ABS:
+    . Wheel Speed Sensors (one per wheel).
+    . Hydraulic Valves (in brake lines - hold, release, or apply pressure).
+    . Pump (restores pressure after valves release it).
+    . Electronic Control Unit (ECU) - the brain that decides when to activate ABS.
