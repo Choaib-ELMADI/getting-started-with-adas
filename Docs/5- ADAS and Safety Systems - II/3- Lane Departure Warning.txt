@@ -1,0 +1,16 @@
+1. Lane Departure Warning:
+    . Monitors vehicle position within the lane using a forward-facing camera.
+    . Warns the driver when the vehicle unintentionally drifts out of its lane (no turn signal activated).
+    . Prevents accidents caused by distraction, drowsiness, or inattention.
+
+2. Evolution of the System:
+    . LDW (Lane Departure Warning): Only warns (visual, audible, and haptic).
+    . LDP (Lane Departure Prevention): Adds gentle automatic counter-steering.
+    . LKA (Lane Keeping Assist): Actively keeps the vehicle centered in the lane.
+    . ELK (Emergency Lane Keeping): Stronger intervention in critical situations.
+
+3. How It Works?
+    . Front windshield camera detects lane markings up to ~60-100 m ahead.
+    . System calculates vehicle trajectory and time-to-line-crossing.
+    . If the vehicle crosses or is about to cross the line without turn signal, a warning is triggered.
+    . Advanced versions automatically apply corrective torque to bring the vehicle back into the lane.
