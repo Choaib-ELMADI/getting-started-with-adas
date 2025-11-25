@@ -1,0 +1,27 @@
+1. Driver Monitoring System:
+    . Uses an interior-facing infrared camera to continuously observe the driver's face and upper body.
+    . Detects signs of distraction, drowsiness, or impairment in real time.
+    . Helps prevent accidents caused by inattention or fatigue.
+
+2. What It Detects?
+    . Eyes off the road for too long.
+    . Eyelid closure rate & duration.
+    . Yawning frequency.
+    . Head pose and nodding.
+    . Micro-sleeps (eyes closed for >= 2-3 seconds).
+    . Phone or object in hand.
+    . In advanced versions: signs of alcohol / drug impairment, emotional state.
+
+3. How It Works & Responses?
+    . Infrared camera + AI / CV algorithms analyze facial landmarks in real time.
+    . Escalating warnings:
+        - Stage 1: Visual warning + soft chime ("Keep eyes on road")
+        - Stage 2: Louder audible alert + seat/steering-wheel vibration
+        - Stage 3: "Take a break" message + coffee-cup icon
+        - Stage 4 (in Level 2+ ADAS): Hands-on-wheel request, partial slowdown, or emergency stop
+
+    . In many new vehicles, it can also trigger Automatic Emergency Call if the driver becomes completely unresponsive.
+
+4. Additional Benefits:
+    . Driver identification, automatically loads personal seat, mirror, climate, and infotainment preferences.
+    . Prevents misuse of automated driving features (ensures driver remains responsible).
