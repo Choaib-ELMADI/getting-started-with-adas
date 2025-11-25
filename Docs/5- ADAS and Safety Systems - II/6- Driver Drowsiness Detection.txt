@@ -1,0 +1,14 @@
+1. Driver Drowsiness Detection System:
+    . Monitors the driver for signs of fatigue or microsleep to prevent accidents caused by falling asleep at the wheel.
+    . One of the earliest and still widely used ADAS safety features.
+
+2. Two Main Detection Approaches:
+    . Behavior-based (no camera needed):
+        - Uses steering angle sensor + lane position data
+        - Analyzes micro-corrections in steering over time
+        - Detects erratic, delayed, or absent corrections typical of drowsy driving
+        - Also monitors lane drifting, time of day, journey duration
+
+    . Vision-based (uses a camera):
+        - Infrared camera tracks eye closure (PERCLOS), blink rate/duration, yawning, head nodding
+        - Much more accurate, especially at night (works with IR illumination)
