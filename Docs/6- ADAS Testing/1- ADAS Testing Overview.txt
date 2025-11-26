@@ -1,0 +1,28 @@
+1. ADAS Development Process:
+    . Define the ADAS system -> Stakeholders + engineering team
+    . Write requirements     -> Sensors, processors, use-cases, scenarios, performance, safety
+    . Development            -> Software, hardware, and algorithms
+    . Write test cases       -> Test engineers
+    . Functional testing     -> Lab + real-world validation
+
+2. ADAS Testing Types:
+    ┌─────────────────────────────────┐
+    │ 1. Testing in Software          │ -> Pure simulation, Model-in-Loop (MiL), Software-in-Loop (SiL)
+    │ 2. Testing in Lab / Indoor      │ -> Hardware-in-Loop (HiL), Driver-in-Loop (DiL), Vehicle-in-Loop (ViL)
+    │ 3. On Dedicated Test Facilities │ -> Proving grounds, closed test tracks, repeatable scenarios
+    │ 4. On Field / Real Environment  │ -> Public roads (cities, highways, rural)
+    └─────────────────────────────────┘
+
+3. Why Using Simulation & Lab Testing?
+    . Drastically reduces cost and time.
+    . Detects bugs very early.
+    . Allows millions of test kilometres virtually.
+    . Safely tests critical corner cases.
+    . Reproducible and deterministic scenarios.
+    . Hardware (ECU, sensors) can be tested without installing in real car.
+    . Re-usable models across different ADAS functions.
+
+4. Real-World Testing:
+    . Even after extensive SiL&HiL, final validation must be done on actual vehicles in real environments.
+    . Proving grounds, repeatable, controlled, and high-precision scenarios.
+    . Public roads, real traffic, weather, and edge cases.
