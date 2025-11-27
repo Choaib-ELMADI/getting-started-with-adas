@@ -1,0 +1,17 @@
+## Coding Activity 3 - Development of Speed Limit Recognition System for ADAS
+
+### Description:
+
+- Speed limit recognition is kind a sub part of traffic sign recognition system.
+- In many countries, as per the road and area, the maximum speed limit varies.
+- If the vehicle is found to be driving higher than the allowed maximum speed limit, it can lead to fine and also danger situation on road.
+- Hence, such ADAS systems using the front camera enabled with AI, detects the traffic signs which are for speed limits and then display the speed on the instrument panel of the vehicle.
+
+### Problem Statement:
+
+- Use Python (or any other programming language) for development.
+- Use OpenCV for computer vision and then required machine learning / deep learning algorithm of your choice.
+- Download the publicly available dataset of speed limit traffic sign images.
+- Develop deep learning CNN model and train it using the dataset. Keep aside some part of the data for validation and testing.
+- After training and validation with high accuracy, test the model on test dataset and save it for later use.
+- Test the system by using some other speed limit images. You can also test it using some video feed.

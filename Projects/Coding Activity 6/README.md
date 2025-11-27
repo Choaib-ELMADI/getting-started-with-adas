@@ -1,0 +1,12 @@
+## Coding Activity 6 - Instrument Cluster (GUI) Development using Python
+
+### Description:
+
+- In the last coding activities from 1 to 5, we have implemented different ADAS applications (all based on camera) and now in this activity, the idea is to develop a simple instrument cluster (panel) which can display all the ADAS outputs from all the five coding activities together.
+
+### Problem Statement:
+
+- Use Python (or any other programming language) for development.
+- For GUI development with Python, you can use PyQT, Tkinter, wxwidget, or any other library.
+- Use your imagination and creativity along with some online search to design good looking GUI for displaying ADAS information from all 5 coding activities.
+- Test it.

@@ -1,0 +1,15 @@
+## Coding Activity 4 - Object Detection from Camera Images using YOLOv3
+
+### Description:
+
+- Object Detection algorithm is used by many ADAS systems to detect objects and then to decide whether any of the objects can lead to danger condition.
+- As camera is very good in identifying type of object, it is widely used. It is also used together with other sensors like Radar for data fusion.
+- There are many state of the art object detection algorithms available today. One of them is YOLOv3 (You Only Look Once) which is very efficient.
+
+### Problem Statement:
+
+- Use Python (or any other programming language) for development.
+- Download the YOLOv3 model parameters files and then implement the algorithm to detect objects in images.
+- Test the model on various road images.
+- Filter unwanted object class and detect only important class of objects for road like cars, buses, pedestrian, bicycle, street light, traffic sign, etc.
+- Test it again on various images.

@@ -1,0 +1,13 @@
+Coding Activity 1 - Development of Lane Detection System for ADAS Application
+
+* Description:
+    . Lane detection system uses front camera of the ego vehicle.
+    . It detect the lanes and also determine the lane in which the Ego vehicle is moving.
+    . Lane detection is important algorithm for ADAS systems like Lane Departure Warning, Lane Change Assist, Lane Keep Assist, etc.
+
+* Problem Statement:
+    . Use Python (or any other programming language) for development.
+    . Use openCV for computer vision and then required machine Learning / Deep Learning algorithm of your choice.
+    . Download a video from public dataset like KITTI, nuscenes or other, which contains recording of road from front camera where lanes are clearly visible.
+    . Implement the Lane detection system and validate it.
+    . Test the algorithm on the video by continuously detecting road lanes.
