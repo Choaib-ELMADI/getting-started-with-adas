@@ -96,8 +96,22 @@ In this repo, you will find notes and explanations based on the **Udemy** course
 
 ### Resources and Projects
 
-This repo includes additional learning resources stored in the `Resources` folder, such as books, technical papers, and reference materials on ADAS and autonomous driving. These materials can help you deepen your understanding beyond the course content.
+Additional learning resources are stored in the `Resources` folder, such as books, technical papers, and reference materials on ADAS and autonomous driving. These materials can help you deepen your understanding beyond the course content.
 
-Optional Python programming activities and practical exercises are provided in the `Projects` folder. They cover computer vision, machine learning, and deep learning tasks related to ADAS, with 7 guided exercises including problem statements and reference links for self-practice.
+Optional Python programming activities and practical exercises are provided in the `Projects` folder. They cover computer vision, machine learning, and deep learning tasks related to ADAS, with 7 guided exercises including problem statements for self-practice.
+
+You can explore them here:
+
+- [Coding Activity 1 - Development of Lane Detection System for ADAS Application](./Projects/Coding%20Activity%201)
+- [Coding Activity 2 - Development of Traffic Sign Recognition System for ADAS](./Projects/Coding%20Activity%202)
+- [Coding Activity 3 - Development of Speed Limit Recognition System for ADAS](./Projects/Coding%20Activity%203)
+- [Coding Activity 4 - Object Detection from Camera Images using YOLOv3](./Projects/Coding%20Activity%204)
+- [Coding Activity 5 - Street Light Detection and Recognition for ADAS](./Projects/Coding%20Activity%205)
+- [Coding Activity 6 - Instrument Cluster (GUI) Development using Python](./Projects/Coding%20Activity%206)
+- [Coding Activity 7 - Let's Put All Together](./Projects/Coding%20Activity%207)
+
+Each activity includes a detailed problem statement and full implementation code to help you practice and apply the concepts learned in the course.
+
+> **Note:** The implementations are created by me and are not part of the **Udemy** course.
 
 If you find this repo useful, feel free to share it. Contributions and suggestions are always welcome!
