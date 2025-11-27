@@ -1,0 +1,19 @@
+1. On-Field Testing of ADAS Systems:
+    . Critical ADAS functions require highly accurate trajectory formation for both Ego vehicle and Target vehicle.
+    . If the developed ADAS function fails during testing, real collision between vehicles is possible.
+
+2. Safety Measures in ADAS On-Field Testing:
+    . Ego vehicle is driven by machines that precisely control steering, accelerator pedal, brake pedal, and clutch.
+    . Target vehicles are often replaced with dummy targets made of soft forming material:
+        - Guided Soft Target (GST)
+        - Soft Pedestrian Target (SPT)
+        - Dummy alternatives also used for bicycles, motorbikes, ...
+
+3. Robotic Control Systems Used:
+    . Combined Brake and Accelerator Robot (CBAR):
+        - Can be used with or without a human driver
+        - Can be upgraded to control clutch and gears
+
+    . Steering Control Robot (SCR):
+        - Fully steers the vehicle without human intervention
+        - Steering input comes from preset trajectory via software system
