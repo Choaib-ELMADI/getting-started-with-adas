@@ -18,29 +18,21 @@ ADAS includes systems that monitor the surroundings of a vehicle, support the dr
 
 In this repo, you will find notes and explanations based on the **Udemy** course content, organized into clear sections:
 
-### 1. Introduction
+### ADAS Introduction
 
-- What ADAS is
-- Course outline and learning path
+- Road Safety
+- Why ADAS
+- How ADAS Help Drivers
+- General Working of ADAS
+- Role of ADAS towards AD
 
-### 2. ADAS Basics
+### Sensors in ADAS
 
-- General definition of ADAS with examples
-- Common ADAS block diagram
-- Role of ADAS in autonomous driving
-- Examples of modern AD‑capable vehicles
-- SAE Autonomous Driving Levels
-- Key terms: ego vehicle, target vehicle, coordinate systems, field of view, blind spots
-
-<div align="center">
-
-![ADAS Block Diagram](./Images/adas-block-diagram.png)
-
-</div>
-
-### 3. ADAS Sensors
-
-Modern ADAS relies on a combination of sensors:
+- Automotive Radar
+- Camera Vision System
+- Ultrasonic Sensor
+- Lidar Sensor
+- GNSS, GPS and IMU
 
 | Sensor Type              | Description                                                        |
 | :----------------------- | :----------------------------------------------------------------- |
@@ -51,13 +43,17 @@ Modern ADAS relies on a combination of sensors:
 | **GNSS / GPS**           | Provides global positioning.                                       |
 | **IMU**                  | Measures acceleration and rotation for vehicle state estimation.   |
 
-### 4. Role of AI in ADAS
+<div align="center">
 
-- Why AI is important for next‑generation ADAS
-- Deep learning in radar, camera, and lidar algorithms
-- Sensor fusion examples
-- Pointers to technical papers
-- Overview of processors and hardware used for CNN‑based algorithms
+![ADAS Block Diagram](./Images/adas-block-diagram.png)
+
+</div>
+
+### Role of ML and DL in ADAS
+
+- Overview
+- Sensors and Sensor Fusion
+- Processors
 
 <div align="center">
 
@@ -65,7 +61,7 @@ Modern ADAS relies on a combination of sensors:
 
 </div>
 
-### 5. ADAS Features – Part I
+### ADAS Safety Systems (I)
 
 - Adaptive Cruise Control (ACC)
 - Rear Cross Traffic Alert (RCTA)
@@ -80,7 +76,7 @@ Modern ADAS relies on a combination of sensors:
 - Pedestrian Protection
 - Evasive Steering Support
 
-### 6. ADAS Features – Part II
+### ADAS Safety Systems (II)
 
 - Traffic Sign Recognition (TSR)
 - Speed Limit Assist
@@ -92,21 +88,13 @@ Modern ADAS relies on a combination of sensors:
 - Anti‑lock Braking System (ABS)
 - Cross Wind Assist
 
-### 7. Testing and Validation
+### ADAS Testing
 
-- Overview of ADAS development workflow
-- Why testing is critical
-- Different types of testing:
+- ADAS Testing Overview
+- Virtual Simulation Testing
+- On-Field Testing
 
-  - Software‑in‑Loop (SiL)
-  - Hardware‑in‑Loop (HiL)
-  - Driver‑in‑Loop (DiL)
-  - On‑field testing
-
-- Use of robots for collision scenarios
-- Visual animations and examples for understanding test tracks
-
-### 8. Resources and Projects
+### Resources and Projects
 
 This repo includes additional learning resources stored in the `Resources` folder, such as books, technical papers, and reference materials on ADAS and autonomous driving. These materials can help you deepen your understanding beyond the course content.
 
