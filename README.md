@@ -26,6 +26,12 @@ In this repo, you will find notes and explanations based on the **Udemy** course
 - General Working of ADAS
 - Role of ADAS towards AD
 
+<div align="center">
+
+![ADAS Block Diagram](./Images/adas-block-diagram.png)
+
+</div>
+
 ### Sensors in ADAS
 
 - Automotive Radar
@@ -42,12 +48,6 @@ In this repo, you will find notes and explanations based on the **Udemy** course
 | **Ultrasonic**           | Short‑range detection for parking assist.                          |
 | **GNSS / GPS**           | Provides global positioning.                                       |
 | **IMU**                  | Measures acceleration and rotation for vehicle state estimation.   |
-
-<div align="center">
-
-![ADAS Block Diagram](./Images/adas-block-diagram.png)
-
-</div>
 
 ### Role of ML and DL in ADAS
 
